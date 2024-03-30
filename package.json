@@ -1,0 +1,28 @@
+{
+  "name": "blogging-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakshass09/Coding-Raja-Technologies-Internship.git#main"
+  },
+  "keywords": [
+    "internship",
+    "submission"
+  ],
+  "author": "rakshanda sonekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakshass09/Coding-Raja-Technologies-Internship/issues"
+  },
+  "homepage": "https://github.com/Rakshass09/Coding-Raja-Technologies-Internship/tree/main#readme",
+  "dependencies": {
+    "express-fileupload": "^1.5.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
